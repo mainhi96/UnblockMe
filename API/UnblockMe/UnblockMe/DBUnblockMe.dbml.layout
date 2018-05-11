@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DBUnblockMe">
+  <DataContextMoniker Name="/DBUnblockMeDataContext" />
+  <nestedChildShapes>
+    <classShape Id="399e1c48-c269-4bea-83ce-c7b5602abdad" absoluteBounds="5.75, 1.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DBUnblockMeDataContext/account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="99e64fd6-b6b1-4d9f-8c9c-64ee25ba6016" absoluteBounds="5.765, 1.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
